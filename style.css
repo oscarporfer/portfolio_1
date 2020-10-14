@@ -1,0 +1,28 @@
+body {
+  background: lightblue;
+  display: flex;
+  flex-direction: column;
+}
+
+.intro1 {
+  color:white;
+  text-align: center;
+  font-family: Arial;
+  font-size: 20px;
+  font-weight: bold;
+  border-style: outset;
+
+}
+
+.wrapper {
+  border-style: outset;
+  align-content: center;
+}
+
+.paragraph {
+  color: white;
+  text-align: center;
+  font-size: 15px;
+  font-weight: bold;
+}
+
